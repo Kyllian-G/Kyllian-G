@@ -1,4 +1,4 @@
-<h3 align="center">I'm Kyllian, Student at Ecole O'clock, Back-end Developer</h3>
+<h3 align="center">👋 I'm Kyllian, Student at Ecole O'clock, Back-end Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
